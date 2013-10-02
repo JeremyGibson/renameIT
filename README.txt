@@ -1,13 +1,15 @@
-This software was developed at the State Records Center of the North Carolina Department of Cultural Resources Division of Archives and Records.
-It is intended as a utility to assist employees of state and local government in North Carolina who wish to apply file naming best practices 
-to existing file structures.
+This software was developed at the State Records Center of the North Carolina Department
+of Cultural Resources Division of Archives and Records. It is intended as a utility 
+to assist employees of state and local government in North Carolina who wish to apply 
+file naming best practices to existing file structures.
 
-*****************************************WARNING ********************************************
-** Renaming files can cause problems especially if the files being renamed are located on  **
-** an Intranet, Shared Drive, or an Internet accessible drive. Before attempting to rename **
-** make sure that you have tested this program on a set of test files, or you consult with **
-** an IT specialist within your office or agency.                                          **
-*********************************************************************************************
+*****************************************WARNING **************************************
+** 
+** Renaming files can cause problems especially if the files being renamed are located 
+** on an Intranet, Shared Drive, or an Internet accessible drive. Before attempting to 
+** rename make sure that you have tested this program on a set of test files, or you 
+** consult with an IT specialist within your office or agency.                         
+***************************************************************************************
 
 Version 1.0
 
