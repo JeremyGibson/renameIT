@@ -13,7 +13,7 @@ file naming best practices to existing file structures.
 
 Version 1.0
 
-This script is designed to work on Windows File systems.  It was developed
+This script is designed to work on Windows file systems.  It was developed
 with Python 2.7.5 on a Windows 7 64bit machine.
 
 The python source script was compiled into a windows executable with 
@@ -22,15 +22,14 @@ Python Win.
 
 ### Installation and Use ###
 
-The "renameIT.py" file can be run from any Windows machine with Python 2.7
-installed from the command line.
+The "renameIT.py" file can be run from any Windows machine with Python 2.7.
 
 C:\Program Files\Python27\python.exe <Path to renameIT.py>
 
 Or
 
-Download run the renameIT.zip file and extract the folder and files to a
-place on your harddrive. The executable should run either from the command
+Download the renameIT.zip file and extract the folder and files to a
+place on your hard drive. The executable should run either from the command
 line or by double clicking within an explorer window.
 
 If you have any questions feel free to contact me at jeremy.gibson@ncdcr.gov
