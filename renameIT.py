@@ -50,6 +50,7 @@ def rename_file_manual(mpath, mfile):
     name_array = os.path.splitext(mfile)
     fname = name_array[0]
     fname = fname.replace('.', '_')
+    fname = fname.replace('-', '_')
     fname = re.sub(r"[^\w\s]", '', fname)
     fname = fname.replace(' ', '_')
     fname = fname + "_" + iso_c_time
